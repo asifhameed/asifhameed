@@ -11,6 +11,5 @@
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asif Hameed | LinkedIn" height="30" width="40" />][linkedin]
 
 <br />
-<br />
 
 [linkedin]: https://www.linkedin.com/in/asif-hameed-9b6ab39
