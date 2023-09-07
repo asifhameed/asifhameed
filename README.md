@@ -1,7 +1,7 @@
 ### Hello and Welcome 👋, I'm Asif Hameed
 
-### I'm a Father, Developer Tech Lead
-- 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
+### I'm a Father, Senior Software Engineer (Tech Lead) : PHP-Laravel/CodeIgniter, NodeJs-ExpressJs/Angular
+- 👨🏽‍🎓 I enjoy coding skills as well as helping Juniors & fellow developers
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
@@ -12,3 +12,5 @@
 
 <br />
 <br />
+
+[linkedin]: https://www.linkedin.com/in/asif-hameed-9b6ab39
