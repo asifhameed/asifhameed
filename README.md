@@ -1,6 +1,6 @@
 ### Hello and Welcome 👋, I'm Asif Hameed
 
-### I'm a Father, Senior Software Engineer (Tech Lead) : PHP-Laravel/CodeIgniter, NodeJs-ExpressJs/Angular
+### I'm a Father, Principal Software Engineer (Tech Lead) : PHP-Laravel/CodeIgniter, NodeJs-ExpressJs/Angular/VueJs
 - 👨🏽‍🎓 I enjoy coding skills as well as helping Juniors & fellow developers
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
